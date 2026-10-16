@@ -1,0 +1,3 @@
+[submodule "src/bcr_arm"]
+	path = src/bcr_arm
+	url = https://github.com/4n5hh/bcr_arm.git
